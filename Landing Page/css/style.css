@@ -1,0 +1,13 @@
+.icons img
+{
+    width:30px;
+    transition: 0.5s;
+    cursor: pointer;
+}
+
+.icons img:hover
+{
+    transform: scale(1.2);
+}
+
+
